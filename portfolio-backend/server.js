@@ -20,7 +20,8 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:3000",
-      "https://your-portfolio.vercel.app",
+
+      "https://react-portfolio-hn9w.onrender.com",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
